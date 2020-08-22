@@ -5,3 +5,4 @@ This is from local branch.
 After editing the master branch.
 Adding something in remote
 Master branch added a line.
+This is from newBranch
