@@ -2,3 +2,4 @@ This is a sample.
 This is from new branch.
 This is local
 This is from local branch.
+After editing the master branch.
